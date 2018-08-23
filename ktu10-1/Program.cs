@@ -83,8 +83,7 @@ namespace ktu10_1
                     " Lt,\nvidutiniškai viena pora batų kainavo"+ String.Format("{0:0.00}", vidMot) +
                     " Lt.\nVyriška avalynė: per dieną parduota už "+ String.Format("{0:0.00}", sumaVyr) +
                     " Lt,\nvidutiniškai viena pora batų kainavo "+ String.Format("{0:0.00}", vidVyr) + 
-                    " Lt.\nIš viso per dieną parduota avalynės už "+ String.Format("{0:0.00}", suma) + " Lt");
-                    
+                    " Lt.\nIš viso per dieną parduota avalynės už "+ String.Format("{0:0.00}", suma) + " Lt");                    
             }
         }
     }
