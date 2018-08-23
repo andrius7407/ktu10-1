@@ -4,7 +4,7 @@ vyriška ar moteriška bei poros kaina.
 Parašyti programą, kuri rastų: už kokią pinigų sumą parduota moteriškos ir vyriškos avalynės atskirai;
 kiek vidutiniškai kainavo moteriškų ir vyriškų batų pora;už kokią pinigų sumą parduota avalynės per dieną.
 Pradinių duomenų faile Duomenys.txtįrašyta:pirmoje eilutėje nurodomas per dieną parduotų batų porų skaičius n
-(1 ≤ n ≤ 100);tolesnėse n eilučių įrašyta informacija apie vieną batų porą: simbolis v(vyriški batai)arba m
+(1 ≤ n ≤ 100);tolesnėse n eilučių įrašyta informacija apie vieną batų porą: simbolis v (vyriški batai)arba m
 (moteriški batai)bei batų poros kaina litais(realusis skaičius).
 Skaičiavimų rezultatus pateikite dviejų skaičių po kablelio tikslumu faile Rezultatai.txt.
 Reikalavimai programai: 
